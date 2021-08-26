@@ -1,0 +1,15 @@
+body {
+  margin: 100px;
+}
+
+.box {
+  width: 1300px;
+  height: 800px;
+  
+}
+
+.box .box-item {
+  width: 200px;
+  height: 200px;
+  
+}
